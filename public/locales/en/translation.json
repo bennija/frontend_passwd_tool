@@ -1,0 +1,21 @@
+{
+    "Change password": "Change password",
+    "Username": "Username",
+    "Old password": "Old password",
+    "New password": "New password",
+    "Confirm new password": "Confirm new password",
+    "confirm": "confirm",
+    "reset": "reset",
+    "Old and new password must not be the same.": "Old and new password must not be the same.",
+    "Password cannot have leading or trailing spaces.": "Password cannot have leading or trailing spaces.",
+    "Password needs to be at least 8 characters long.": "Password needs to be at least 8 characters long.",
+    "Password must contain at least one letter and one number.": "Password must contain at least one letter and one number.",
+    "Passwords do not match.": "Passwords do not match.",
+    "Is required.": "Is required.",
+    "Username of the user whose password you want to change.": "Username of the user whose password you want to change.",
+    "Old password of the user whose password you want to change.": "Old password of the user whose password you want to change.",
+    "New password of the user whose password you want to change.": "New password of the user whose password you want to change.",
+    "Confirm the new password." : "Confirm the new password.",
+    "German":"German",
+    "English":"English"
+  }
