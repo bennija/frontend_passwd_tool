@@ -1,2 +1,2 @@
-# frontend_passwd_tool
+# Frontend PasswdTool
 Frontend for PasswdTool with react.
